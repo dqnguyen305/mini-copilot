@@ -124,5 +124,15 @@ client = OpenAI(
 
 ## 🧷 UI Preview
 
+POST /autocomplete
 <img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/18b4457e-bae8-47d7-bc51-bd2ed82e3d17" />
+
+POST /generate
+<img width="1910" height="810" alt="image" src="https://github.com/user-attachments/assets/597c6842-ae6e-4c66-8de8-eab180034a7f" />
+
+POST /fix
+<img width="1806" height="968" alt="image" src="https://github.com/user-attachments/assets/b5b00481-77ff-4639-bbb9-7a5799f93986" />
+
+POST /summarize
+<img width="1520" height="897" alt="image" src="https://github.com/user-attachments/assets/f58f7bfa-33a7-43f2-81d8-66200892cd71" />
 
