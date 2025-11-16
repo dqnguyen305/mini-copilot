@@ -124,4 +124,5 @@ client = OpenAI(
 
 ## 🧷 UI Preview
 
-(Images omitted in file version)
+<img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/18b4457e-bae8-47d7-bc51-bd2ed82e3d17" />
+
